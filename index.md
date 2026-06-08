@@ -3,6 +3,7 @@ layout: default
 title: Sertiv Privacy Policy
 ---
 
+**Privacy Policy** · [Terms of Service](./terms)
 
 # Privacy Policy
 
