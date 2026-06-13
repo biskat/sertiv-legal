@@ -39,8 +39,8 @@ requests, or complaints: **support@sertiv.com**.
   they travel with the message)
 - Cross-app or cross-site tracking identifiers
 - Advertising identifiers (IDFA)
-- Payment or financial information (the app currently has no in-app
-  purchase)
+- Payment or financial information beyond what Apple processes for
+  subscriptions — we never see your card details
 
 ## 3. How we use your data
 

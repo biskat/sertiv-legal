@@ -87,22 +87,26 @@ violations may be reported to law enforcement.
 
 ## 6. Subscriptions and payments
 
-Sertiv currently has no in-app purchases. When we add paid subscriptions
-(via Apple's In-App Purchase / RevenueCat), the following will apply
-and will be re-confirmed at the point of purchase:
+Sertiv has a free tier and an optional paid subscription, **Sertiv Pro**,
+purchased through Apple's In-App Purchase. The free tier is fully usable
+on its own; Pro unlocks additional capacity and features. The following
+applies to Pro and is re-confirmed at the point of purchase:
 
-- Subscriptions auto-renew through your Apple ID at the price and
-  interval shown at checkout, unless cancelled at least 24 hours before
-  the period ends.
-- You can cancel any time from your Apple ID's **Settings →
-  Subscriptions**. Cancellation takes effect at the end of the current
-  billing period; we don't issue partial-period refunds.
+- Pro is an auto-renewing subscription. It renews through your Apple ID
+  at the price and interval shown at checkout, and payment is charged at
+  confirmation of purchase.
+- It renews automatically unless cancelled at least 24 hours before the
+  current period ends. You can manage or cancel any time from your Apple
+  ID's **Settings → Subscriptions**; cancellation takes effect at the end
+  of the current billing period, and we don't issue partial-period
+  refunds.
 - Refund requests outside Apple's standard refund flow can be made via
   Apple Support; we don't process payments directly and so cannot issue
   refunds on Apple's behalf.
-- Free trials, if offered, convert into a paid subscription
-  automatically at the end of the trial unless cancelled before the
-  trial ends.
+- A free trial may be offered. Unless cancelled at least 24 hours before
+  it ends, it converts into a paid subscription automatically at the end
+  of the trial period, and any unused portion is forfeited when you
+  purchase a subscription.
 - We may change prices on notice; existing subscribers will be notified
   before any change takes effect for them.
 
